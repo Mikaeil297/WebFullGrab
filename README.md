@@ -355,7 +355,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ```
 MIT License
 
-Copyright (c) 2024 Mikaeil
+Copyright (c) 2026 Mikaeil amini
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -398,7 +398,7 @@ Mikaeil – github.com/mikaeil297
 
 📝 Changelog
 
-v3.0 (2024)
+v3.0 (2026)
 
 · Added image, font, media, and data file download
 · Added multithreading and resume support
@@ -413,13 +413,13 @@ v3.0 (2024)
 · Added FTP support
 · Added REAL database connection with config.php generation
 
-v2.0 (2023)
+v2.0 (2026)
 
 · Added CSS @import and ES module support
 · Added inline fallback mechanism
 · Improved error handling
 
-v1.0 (2022)
+v1.0 (2026)
 
 · Initial release with basic HTML/CSS/JS download
 
