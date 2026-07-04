@@ -31,7 +31,7 @@
 ```
 
 🌐  WebFullGrab - Web Page Downloader & Resource Extractor
-👤  Author: github.com/@Mikaeil297
+👤  Author: github.com/Mikaeil297
 ============================================================
 📎  Enter the URL: https://example.com
 🔍  Processing: https://example.com
