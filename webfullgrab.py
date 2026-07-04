@@ -193,7 +193,7 @@ def update_html_references(html_content, resource_map):
 def main():
     print(f"{Fore.CYAN}{'='*60}")
     print(f"{Fore.YELLOW}🌐  Web Page Downloader & Resource Extractor")
-    print(f"{Fore.CYAN}👤  Author: github.com/@Mikaeil297")
+    print(f"{Fore.CYAN}👤  Author: github.com/Mikaeil297")
     print(f"{Fore.CYAN}{'='*60}")
 
     url = input(f"{Fore.GREEN}📎  Enter the URL: {Style.RESET_ALL}").strip()
